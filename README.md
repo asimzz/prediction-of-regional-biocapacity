@@ -1,6 +1,6 @@
 # Prediction of Regional Biocapacity
 
-This repository holds the code and resources for our undergraduate thesis project, "Prediction of Regional Biocapacity and Ecological Footprint Using Satellite Imagery and Deep Learning," from the University of Khartoum. Our project uses deep learning to analyze and predict the biocapacity and ecological footprint of various regions with satellite imagery, aiming to promote sustainable environmental management.
+This repository holds the code and resources for our undergraduate thesis project, "Prediction of Regional Biocapacity Using Satellite Imagery and Deep Learning," from the University of Khartoum. Our project uses deep learning to analyze and predict the biocapacity and ecological footprint of various regions with satellite imagery, aiming to promote sustainable environmental management.
 
 ## Abstract
 
